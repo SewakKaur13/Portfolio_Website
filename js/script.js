@@ -39,6 +39,6 @@ form.addEventListener('submit', (event) => {
 // eslint-disable-next-line
 function get_resume() {
   window.open(
-    './resume/resume.pdf', '_blank',
+    './resume/Resume.pdf', '_blank',
   );
 }
