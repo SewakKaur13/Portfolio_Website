@@ -39,6 +39,6 @@ form.addEventListener('submit', (event) => {
 // eslint-disable-next-line
 function get_resume() {
   window.open(
-    'file:///D:/FYBCA_MAIN/Portfolio%20website/resume/resume.pdf', '_blank',
+    './resume/resume.pdf', '_blank',
   );
 }
